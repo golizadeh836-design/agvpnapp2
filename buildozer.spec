@@ -1,4 +1,3 @@
-buildozer.spec
 [app]
 title = Ag VPN
 package.name = agvpn
